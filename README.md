@@ -1,0 +1,1 @@
+# nThValue_from_equation
